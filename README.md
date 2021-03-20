@@ -4,9 +4,9 @@ Universidad Nacional Autónoma de México.
 
 - 🤖 Facultad de Ingeniería - Mecatrónica.
 - 🐕 Facultad de Psicología.
-- 🧠 I.A.
-- 🐍 Python
-- 📱 Aprendiendo Swift
+- 🧠 TensorFlow.
+- 🐍 Python.
+- 📱 Aprendiendo Swift.
 
 
 

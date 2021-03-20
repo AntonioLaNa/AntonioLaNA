@@ -1,17 +1,8 @@
-### Hi there 👋
-
+### Hi there👋
+Hola soy Antonio, estudio en la
+Universidad Nacional Autónoma de México.
 
 - 🤖 Facultad de Ingeniería - Mecatrónica.
 - 🐕 Facultad de Psicología.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-<!--
-**AntonioLaNa/AntonioLaNA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
